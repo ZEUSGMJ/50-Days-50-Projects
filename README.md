@@ -6,6 +6,7 @@ This is just the Projects from [Brad Traversy's](https://github.com/bradtraversy
 - [Website](https://50projects50days.com/)
 - [Course](https://www.udemy.com/course/50-projects-50-days/)
 
-|#| Title|
+|Day| Title|
 |---|---|
 |1|Expanding Cards|
+|2|Progress Steps|
