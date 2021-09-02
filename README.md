@@ -10,3 +10,5 @@ This is just the Projects from [Brad Traversy's](https://github.com/bradtraversy
 |---|---|
 |1|Expanding Cards|
 |2|Progress Steps|
+|3|Rotating Navigation Menu|
+|4|Hidden Search|
