@@ -13,3 +13,4 @@ This is just the Projects from [Brad Traversy's](https://github.com/bradtraversy
 |3|Rotating Navigation Menu|
 |4|Hidden Search|
 |5|Blurry Loading|
+|6|Scroll Animation|
