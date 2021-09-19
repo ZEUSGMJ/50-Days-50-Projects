@@ -14,3 +14,5 @@ This is just the Projects from [Brad Traversy's](https://github.com/bradtraversy
 |4|Hidden Search|
 |5|Blurry Loading|
 |6|Scroll Animation|
+|7|Split Landing Page|
+|8|Form Wave Animation|
