@@ -16,3 +16,4 @@ This is just the Projects from [Brad Traversy's](https://github.com/bradtraversy
 |6|Scroll Animation|
 |7|Split Landing Page|
 |8|Form Wave Animation|
+|9|Sound Board|
